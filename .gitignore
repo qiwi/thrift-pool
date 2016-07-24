@@ -1,0 +1,17 @@
+/target/
+/*/target/
+/log
+/*/log
+/null
+*.iml
+*.iws
+*.ipr
+*.ids
+*.log
+dep*.txt
+/.idea
+/classes
+.project
+.settings
+.classpath
+/.integration-scripts
